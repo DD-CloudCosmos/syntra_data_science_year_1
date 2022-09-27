@@ -1,2 +1,2 @@
-# syntra-data_science_jr1
+# syntra data science year 1
 Repository for Data Science course - year 1
